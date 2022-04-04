@@ -1,6 +1,6 @@
 # Unit 6 Group Project
 
-Use [this link](https://docs.google.com/document/d/11AYaHCLAfhhfhOGxrnmfAlDYGFhdiL_8Jtmziaxilo4/copy) to access the project instructions for this project.
+Use [this link](https://docs.google.com/document/d/181YwGdC_xWzsk6Z6a6IK6KRn1Lk7pv5eP7ArAypibgU/copy) to access the project instructions for this project.
 
 Create a remote repository for this project using `git clone {{YOUR REPO LINK}}`. Get the repository link in the top right corner of the screen.
 
