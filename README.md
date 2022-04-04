@@ -1,4 +1,4 @@
-# Unit 3 Group Project
+# Unit 6 Group Project
 
 Use [this link](https://docs.google.com/document/d/11AYaHCLAfhhfhOGxrnmfAlDYGFhdiL_8Jtmziaxilo4/copy) to access the project instructions for this project.
 
@@ -26,6 +26,7 @@ Each time you work on something in the project, you must do the following steps.
 7. Push the changes to the working directory using
     - `git push`
 8. Create a pull request to merge with the main branch in github.
+9. Do not work on the same files as your partner. You will create one main.py file that imports all of the team member's different programs.
 
 
 Look [here](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) for a list of useful github commands that you might use in your terminal.
